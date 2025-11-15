@@ -1,0 +1,44 @@
+{
+    "part": "Part 35",
+    "part_np": "भाग ३५",
+    "part_name": "संक्षिप्त नाम, प्रारम्भ र खारेजी",
+    "articles_count": 2,
+    "article_start": 307,
+    "article_end": 308,
+    "articles": [
+        {
+            "article_number": 307,
+            "article_number_np": "३०७",
+            "article_name": "संक्षिप्त नाम र प्रारम्भ",
+            "parsed_content": [
+                {
+                    "type": "sub_article",
+                    "marker_np": "१",
+                    "marker": "1",
+                    "text": "यस संविधानलाई “नेपालको संविधान” भनिनेछ ।",
+                    "clauses": []
+                },
+                {
+                    "type": "sub_article",
+                    "marker_np": "२",
+                    "marker": "2",
+                    "text": "यो संविधान संवत् दुई हजार बहत्तर साल असोज महीनाको तीन गतेदेखि प्रारम्भ हुनेछ ।",
+                    "clauses": []
+                }
+            ],
+            "original_content": "(१) यस संविधानलाई “नेपालको संविधान” भनिनेछ ।\n(२) यो संविधान संवत् दुई हजार बहत्तर साल असोज महीनाको तीन गतेदेखि प्रारम्भ हुनेछ ।"
+        },
+        {
+            "article_number": 308,
+            "article_number_np": "३०८",
+            "article_name": "खारेजी",
+            "parsed_content": [
+                {
+                    "type": "paragraph",
+                    "text": "नेपालको अन्तरिम संविधान, २०६३ खारेज गरिएको छ ।"
+                }
+            ],
+            "original_content": "नेपालको अन्तरिम संविधान, २०६३ खारेज गरिएको छ ।"
+        }
+    ]
+}
