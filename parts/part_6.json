@@ -13,29 +13,29 @@
             "parsed_content": [
                 {
                     "type": "sub_article",
-                    "marker_np": "१",
-                    "marker": "1",
+                    "sub_article_number_np": "१",
+                    "sub_article_number": "1",
                     "text": "नेपालमा एक राष्ट्रपति रहनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "२",
-                    "marker": "2",
+                    "sub_article_number_np": "२",
+                    "sub_article_number": "2",
                     "text": "राष्ट्रपति नेपालको राष्ट्राध्यक्ष हुनेछ । निजले यस संविधान र संघीय कानून बमोजिम आफ्नो कार्य सम्पादन गर्नेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "३",
-                    "marker": "3",
+                    "sub_article_number_np": "३",
+                    "sub_article_number": "3",
                     "text": "राष्ट्रपतिले नेपालको राष्ट्रिय एकताको प्रवर्धन गर्नेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "४",
-                    "marker": "4",
+                    "sub_article_number_np": "४",
+                    "sub_article_number": "4",
                     "text": "संविधानको पालन र संरक्षण गर्नु राष्ट्रपतिको प्रमुख कर्तव्य हुनेछ ।",
                     "clauses": []
                 }
@@ -49,50 +49,50 @@
             "parsed_content": [
                 {
                     "type": "sub_article",
-                    "marker_np": "१",
-                    "marker": "1",
+                    "sub_article_number_np": "१",
+                    "sub_article_number": "1",
                     "text": "राष्ट्रपतिको निर्वाचन संघीय संसदका सदस्य र प्रदेश सभाका सदस्य मतदाता रहेको निर्वाचक मण्डलबाट हुनेछ । संघीय संसदका सदस्य र प्रदेश सभाका सदस्यको मतभार संघीय कानून बमोजिम फरक हुनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "२",
-                    "marker": "2",
+                    "sub_article_number_np": "२",
+                    "sub_article_number": "2",
                     "text": "उपधारा (१) मा जुनसुकै कुरा लेखिएको भए तापनि कुनै प्रदेशमा प्रदेश सभाको निर्वाचन नभएका कारणले मात्र राष्ट्रपतिको निर्वाचनप्रयोजनका लागि निर्वाचक मण्डल गठन गर्न बाधा परेको मानिने छैन ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "३",
-                    "marker": "3",
+                    "sub_article_number_np": "३",
+                    "sub_article_number": "3",
                     "text": "उपधारा (१) बमोजिमको निर्वाचक मण्डलको तत्काल कायम रहेको कुल मतको बहुमत प्राप्त गर्ने व्यक्ति राष्ट्रपति निर्वाचित हुनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "४",
-                    "marker": "4",
+                    "sub_article_number_np": "४",
+                    "sub_article_number": "4",
                     "text": "उपधारा (३) बमोजिम कुनै उम्मेदवारले बहुमत प्राप्त गर्न नसकेमा सबैभन्दा बढी मत प्राप्त गर्ने दुई उम्मेदवारहरू बीच मतदान हुनेछर त्यस्तो मतदानमा कुल मतको पचास प्रतिशतभन्दा बढी मत प्राप्त गर्ने उम्मेदवार राष्ट्रपति निर्वाचित हुनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "५",
-                    "marker": "5",
+                    "sub_article_number_np": "५",
+                    "sub_article_number": "5",
                     "text": "उपधारा (४) बमोजिमको मतदानबाट समेत कुनै उम्मेदवारले कुल मतको पचास प्रतिशतभन्दा बढी मत प्राप्त गर्न नसकेमा पुनः मतदान हुनेछ । त्यस्तो मतदानमा खसेको कुल सदर मतको बढी मत प्राप्त गर्ने उम्मेदवार राष्ट्रपति निर्वाचित हुनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "६",
-                    "marker": "6",
+                    "sub_article_number_np": "६",
+                    "sub_article_number": "6",
                     "text": "निर्वाचन, मनोनयन वा नियुक्ति हुने राजनीतिक पदमा बहाल रहेकोे व्यक्ति यस धारा बमोजिम राष्ट्रपति निर्वाचित भएमा निजको त्यस्तो पद स्वतः रिक्त हुनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "७",
-                    "marker": "7",
+                    "sub_article_number_np": "७",
+                    "sub_article_number": "7",
                     "text": "राष्ट्रपतिको निर्वाचन र तत्सम्बन्धी अन्य व्यवस्था संघीय कानून बमोजिम हुनेछ ।",
                     "clauses": []
                 }
@@ -106,15 +106,15 @@
             "parsed_content": [
                 {
                     "type": "sub_article",
-                    "marker_np": "१",
-                    "marker": "1",
+                    "sub_article_number_np": "१",
+                    "sub_article_number": "1",
                     "text": "राष्ट्रपतिको पदावधि निर्वाचित भएको मितिले पाँच वर्षको हुनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "२",
-                    "marker": "2",
+                    "sub_article_number_np": "२",
+                    "sub_article_number": "2",
                     "text": "उपधारा (१) बमोजिमको पदावधि समाप्त भएको राष्ट्रपतिले अर्काे निर्वाचित राष्ट्रपतिले पदभार नसम्हालेसम्म यस संविधान बमोजिमको कार्य सम्पादन गर्नेछ ।",
                     "clauses": []
                 }
@@ -128,31 +128,31 @@
             "parsed_content": [
                 {
                     "type": "sub_article",
-                    "marker_np": "१",
-                    "marker": "1",
+                    "sub_article_number_np": "१",
+                    "sub_article_number": "1",
                     "text": "देहायको योग्यता भएको व्यक्ति राष्ट्रपति हुनका लागि योग्य हुनेछः-",
                     "clauses": [
                         {
                             "type": "clause",
-                            "marker_np": "क",
+                            "clause_number_np": "क",
                             "text": "संघीय संसदको सदस्य हुन योग्य भएको,"
                         },
                         {
                             "type": "clause",
-                            "marker_np": "ख",
+                            "clause_number_np": "ख",
                             "text": "कम्तीमा पैंतालिस वर्ष उमेर पूरा भएको, र"
                         },
                         {
                             "type": "clause",
-                            "marker_np": "ग",
+                            "clause_number_np": "ग",
                             "text": "कुनै कानूनले अयोग्य नभएको ।"
                         }
                     ]
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "२",
-                    "marker": "2",
+                    "sub_article_number_np": "२",
+                    "sub_article_number": "2",
                     "text": "उपधारा (१) मा जुनसुकै कुरा लेखिएको भए तापनि दुई पटक राष्ट्रपति निर्वाचित भइसकेको व्यक्ति राष्ट्रपतिको निर्वाचनमा उम्मेदवार हुन सक्ने छैन ।",
                     "clauses": []
                 }
@@ -170,22 +170,22 @@
                 },
                 {
                     "type": "clause",
-                    "marker_np": "क",
+                    "clause_number_np": "क",
                     "text": "निजले उपराष्ट्रपति समक्ष लिखित राजीनामा दिएमा,"
                 },
                 {
                     "type": "clause",
-                    "marker_np": "ख",
+                    "clause_number_np": "ख",
                     "text": "निजको विरुद्ध धारा १०१ बमोजिम महाभियोगको प्रस्ताव पारित भएमा,"
                 },
                 {
                     "type": "clause",
-                    "marker_np": "ग",
+                    "clause_number_np": "ग",
                     "text": "निजको पदावधि समाप्त भएमा,"
                 },
                 {
                     "type": "clause",
-                    "marker_np": "घ",
+                    "clause_number_np": "घ",
                     "text": "निजको मृत्यु भएमा ।"
                 }
             ],
@@ -198,22 +198,22 @@
             "parsed_content": [
                 {
                     "type": "sub_article",
-                    "marker_np": "१",
-                    "marker": "1",
+                    "sub_article_number_np": "१",
+                    "sub_article_number": "1",
                     "text": "राष्ट्रपतिले यो संविधान वा संघीय कानून बमोजिम निजलाई प्राप्त अधिकारको प्रयोग र कर्तव्यको पालनगर्नेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "२",
-                    "marker": "2",
+                    "sub_article_number_np": "२",
+                    "sub_article_number": "2",
                     "text": "उपधारा (१) बमोजिम अधिकारको प्रयोग वा कर्तव्यको पालन गर्दा यो संविधान वा संघीय कानून बमोजिम कुनै निकाय वा पदाधिकारीको सिफारिसमा गरिने भनी किटानीसाथ व्यवस्था भएको कार्य बाहेक राष्ट्रपतिबाट सम्पादन गरिने अन्य जुनसुकै कार्य मन्त्रिपरिषदको सिफारिस र सम्मतिबाट हुनेछ । त्यस्तो सिफारिस र सम्मति प्रधानमन्त्री मार्फत पेश हुनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "३",
-                    "marker": "3",
+                    "sub_article_number_np": "३",
+                    "sub_article_number": "3",
                     "text": "उपधारा (२) बमोजिम राष्ट्रपतिको नाममा हुने निर्णय वा आदेश र तत्सम्बन्धी अधिकारपत्रको प्रमाणीकरण संघीय कानून बमोजिम हुनेछ ।",
                     "clauses": []
                 }
@@ -227,22 +227,22 @@
             "parsed_content": [
                 {
                     "type": "sub_article",
-                    "marker_np": "१",
-                    "marker": "1",
+                    "sub_article_number_np": "१",
+                    "sub_article_number": "1",
                     "text": "नेपालमा एक उपराष्ट्रपति रहनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "२",
-                    "marker": "2",
+                    "sub_article_number_np": "२",
+                    "sub_article_number": "2",
                     "text": "राष्ट्रपतिको अनुपस्थितिमा राष्ट्रपतिबाट गरिने कार्यहरू उपराष्ट्रपतिबाट सम्पादन गरिनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "३",
-                    "marker": "3",
+                    "sub_article_number_np": "३",
+                    "sub_article_number": "3",
                     "text": "निर्वाचन, मनोनयन वा नियुक्ति हुने राजनीतिक पदमा बहाल रहेकोे कुनै व्यक्ति उपराष्ट्रपतिको पदमा निर्वाचित भएमा निजको त्यस्तो पद स्वतः रिक्त हुनेछ ।",
                     "clauses": []
                 }
@@ -260,22 +260,22 @@
                 },
                 {
                     "type": "clause",
-                    "marker_np": "क",
+                    "clause_number_np": "क",
                     "text": "निजले राष्ट्रपति समक्ष लिखित राजीनामा दिएमा,"
                 },
                 {
                     "type": "clause",
-                    "marker_np": "ख",
+                    "clause_number_np": "ख",
                     "text": "निजको विरुद्ध धारा १०१ बमोजिम महाभियोगको प्रस्ताव पारित भएमा,"
                 },
                 {
                     "type": "clause",
-                    "marker_np": "ग",
+                    "clause_number_np": "ग",
                     "text": "निजको पदावधि समाप्त भएमा,"
                 },
                 {
                     "type": "clause",
-                    "marker_np": "घ",
+                    "clause_number_np": "घ",
                     "text": "निजको मृत्यु भएमा ।"
                 }
             ],
@@ -340,15 +340,15 @@
             "parsed_content": [
                 {
                     "type": "sub_article",
-                    "marker_np": "१",
-                    "marker": "1",
+                    "sub_article_number_np": "१",
+                    "sub_article_number": "1",
                     "text": "राष्ट्रपति र उपराष्ट्रपतिको कार्य सम्पादनका लागि छुट्टाछुट्टै कार्यालय रहनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "२",
-                    "marker": "2",
+                    "sub_article_number_np": "२",
+                    "sub_article_number": "2",
                     "text": "उपधारा (१) बमोजिमको कार्यालयको काम कारबाही सञ्चालन गर्न आवश्यक कर्मचारी तथा अन्य व्यवस्था नेपाल सरकारले गर्नेछ ।",
                     "clauses": []
                 }

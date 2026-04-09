@@ -13,15 +13,15 @@
             "parsed_content": [
                 {
                     "type": "sub_article",
-                    "marker_np": "१",
-                    "marker": "1",
+                    "sub_article_number_np": "१",
+                    "sub_article_number": "1",
                     "text": "यस संविधानको अधीनमा रही स्थानीय तहको व्यवस्थापिकीय अधिकार गाउँ सभा र नगर सभामा निहित रहनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "२",
-                    "marker": "2",
+                    "sub_article_number_np": "२",
+                    "sub_article_number": "2",
                     "text": "गाउँ सभा र नगर सभाको व्यवस्थापिकीय अधिकार अनुसूची-८ र अनुसूची-९ बमोजिमको सूचीमा उल्लेख भए बमोजिम हुनेछ ।",
                     "clauses": []
                 }
@@ -35,71 +35,71 @@
             "parsed_content": [
                 {
                     "type": "sub_article",
-                    "marker_np": "१",
-                    "marker": "1",
+                    "sub_article_number_np": "१",
+                    "sub_article_number": "1",
                     "text": "प्रत्येक गाउँपालिकामा एक गाउँ सभा रहनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "२",
-                    "marker": "2",
+                    "sub_article_number_np": "२",
+                    "sub_article_number": "2",
                     "text": "उपधारा (१) बमोजिमको गाउँ सभामा गाउँ कार्यपालिका अध्यक्ष र उपाध्यक्ष, वडा अध्यक्ष र प्रत्येक वडाबाट निर्वाचित चारजना सदस्य र धारा २१५ को उपधारा (४) बमोजिम दलित वा अल्पसंख्यक समुदायबाट निर्वाचित गाउँ कार्यपालिकाका सदस्य रहनेछन् ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "३",
-                    "marker": "3",
+                    "sub_article_number_np": "३",
+                    "sub_article_number": "3",
                     "text": "उपधारा (१) बमोजिम गठन हुने गाउँ सभामा प्रत्येक वडाबाट कम्तीमा दुईजना महिलाको प्रतिनिधित्व हुनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "४",
-                    "marker": "4",
+                    "sub_article_number_np": "४",
+                    "sub_article_number": "4",
                     "text": "संघीय कानून बमोजिम गाउँपालिकामा रहने प्रत्येक वडामा वडा अध्यक्ष र चारजना सदस्यहरू रहेको वडा समिति गठन हुनेछ । त्यस्तो वडा अध्यक्ष र वडा सदस्यको निर्वाचन पहिलो हुने निर्वाचित हुने निर्वाचन प्रणाली बमोजिम हुनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "५",
-                    "marker": "5",
+                    "sub_article_number_np": "५",
+                    "sub_article_number": "5",
                     "text": "अठार वर्ष उमेर पूरा भएको गाउँपालिकाको मतदाता नामावलीमा नाम समावेश भएको व्यक्तिलाई संघीय कानूनमा व्यवस्था भए बमोजिम मतदान गर्ने अधिकार हुनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "६",
-                    "marker": "6",
+                    "sub_article_number_np": "६",
+                    "sub_article_number": "6",
                     "text": "देहायको योग्यता भएको व्यक्ति गाउँ सभाको सदस्यको पदमा उम्मेदवार हुन योग्य हुनेछः-",
                     "clauses": [
                         {
                             "type": "clause",
-                            "marker_np": "क",
+                            "clause_number_np": "क",
                             "text": "नेपाली नागरिक,"
                         },
                         {
                             "type": "clause",
-                            "marker_np": "ख",
+                            "clause_number_np": "ख",
                             "text": "एक्काइस वर्ष उमेर पूरा भएको,"
                         },
                         {
                             "type": "clause",
-                            "marker_np": "ग",
+                            "clause_number_np": "ग",
                             "text": "गाउँपालिकाको मतदाता नामावलीमा नाम समावेश भएको, र"
                         },
                         {
                             "type": "clause",
-                            "marker_np": "घ",
+                            "clause_number_np": "घ",
                             "text": "कुनै कानूनले अयोग्य नभएको ।"
                         }
                     ]
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "७",
-                    "marker": "7",
+                    "sub_article_number_np": "७",
+                    "sub_article_number": "7",
                     "text": "गाउँ सभाको निर्वाचन र तत्सम्बन्धी अन्य व्यवस्था संघीय कानून बमोजिम हुनेछ ।",
                     "clauses": []
                 }
@@ -113,71 +113,71 @@
             "parsed_content": [
                 {
                     "type": "sub_article",
-                    "marker_np": "१",
-                    "marker": "1",
+                    "sub_article_number_np": "१",
+                    "sub_article_number": "1",
                     "text": "प्रत्येक नगरपालिकामा एक नगर सभा रहनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "२",
-                    "marker": "2",
+                    "sub_article_number_np": "२",
+                    "sub_article_number": "2",
                     "text": "उपधारा (१) बमोजिमको नगर सभामा नगरकार्यपालिकाका प्रमुख र उपप्रमुख, वडा अध्यक्ष र प्रत्येक वडाबाट निर्वाचित चारजना सदस्य र धारा २१६ को उपधारा (४) बमोजिम दलित वा अल्पसंख्यक समुदायबाट निर्वाचित नगर कार्यपालिकाका सदस्य रहनेछन् ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "३",
-                    "marker": "3",
+                    "sub_article_number_np": "३",
+                    "sub_article_number": "3",
                     "text": "उपधारा (१) बमोजिम गठन हुने नगर सभामा प्रत्येक वडाबाट कम्तीमा दुईजना महिलाको प्रतिनिधित्व हुनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "४",
-                    "marker": "4",
+                    "sub_article_number_np": "४",
+                    "sub_article_number": "4",
                     "text": "संघीय कानून बमोजिम नगरपालिकामा रहने प्रत्येक वडामा वडा अध्यक्ष र चारजना सदस्यहरू रहेको वडा समिति गठन हुनेछ । त्यस्तो वडा अध्यक्ष र वडा सदस्यको निर्वाचन पहिलो हुने निर्वाचित हुने निर्वाचन प्रणाली बमोजिम हुनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "५",
-                    "marker": "5",
+                    "sub_article_number_np": "५",
+                    "sub_article_number": "5",
                     "text": "अठार वर्ष उमेर पूरा भएको नगरपालिकाको मतदाता नामावलीमा नाम समावेश भएको व्यक्तिलाई संघीय कानून बमोजिम मतदानगर्ने अधिकार हुनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "६",
-                    "marker": "6",
+                    "sub_article_number_np": "६",
+                    "sub_article_number": "6",
                     "text": "देहायको योग्यता भएको व्यक्ति नगर सभाको सदस्यको पदमा उम्मेदवार हुन योग्य हुनेछः-",
                     "clauses": [
                         {
                             "type": "clause",
-                            "marker_np": "क",
+                            "clause_number_np": "क",
                             "text": "नेपाली नागरिक,"
                         },
                         {
                             "type": "clause",
-                            "marker_np": "ख",
+                            "clause_number_np": "ख",
                             "text": "एक्काइस वर्ष उमेर पूरा भएको,"
                         },
                         {
                             "type": "clause",
-                            "marker_np": "ग",
+                            "clause_number_np": "ग",
                             "text": "नगरपालिकाको मतदाता नामावलीमा नाम समावेश भएको, र"
                         },
                         {
                             "type": "clause",
-                            "marker_np": "घ",
+                            "clause_number_np": "घ",
                             "text": "कुनै कानूनले अयोग्य नभएको ।"
                         }
                     ]
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "७",
-                    "marker": "7",
+                    "sub_article_number_np": "७",
+                    "sub_article_number": "7",
                     "text": "नगर सभाको निर्वाचन र तत्सम्बन्धी अन्य व्यवस्था संघीय कानून बमोजिम हुनेछ ।",
                     "clauses": []
                 }
@@ -219,15 +219,15 @@
             "parsed_content": [
                 {
                     "type": "sub_article",
-                    "marker_np": "१",
-                    "marker": "1",
+                    "sub_article_number_np": "१",
+                    "sub_article_number": "1",
                     "text": "गाउँ सभा र नगर सभाले अनुसूची-८ र अनुसूची-९ बमोजिमको सूचीमा उल्लिखित विषयमा आवश्यक कानून बनाउन सक्नेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "२",
-                    "marker": "2",
+                    "sub_article_number_np": "२",
+                    "sub_article_number": "2",
                     "text": "उपधारा (१) बमोजिम कानून बनाउने प्रक्रिया प्रदेश कानून बमोजिम हुनेछ ।",
                     "clauses": []
                 }

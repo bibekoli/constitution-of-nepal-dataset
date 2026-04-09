@@ -13,15 +13,15 @@
             "parsed_content": [
                 {
                     "type": "sub_article",
-                    "marker_np": "१",
-                    "marker": "1",
+                    "sub_article_number_np": "१",
+                    "sub_article_number": "1",
                     "text": "यो संविधान नेपालको मूल कानून हो । यस संविधानसँग बाझिने कानून बाझिएको हदसम्म अमान्य हुनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "२",
-                    "marker": "2",
+                    "sub_article_number_np": "२",
+                    "sub_article_number": "2",
                     "text": "यस संविधानको पालना गर्नु प्रत्येक व्यक्तिको कर्तव्य हुनेछ ।",
                     "clauses": []
                 }
@@ -59,8 +59,8 @@
             "parsed_content": [
                 {
                     "type": "sub_article",
-                    "marker_np": "१",
-                    "marker": "1",
+                    "sub_article_number_np": "१",
+                    "sub_article_number": "1",
                     "text": "नेपाल स्वतन्त्र, अविभाज्य, सार्वभौमसत्तासम्पन्न, धर्मनिरपेक्ष, समावेशी, लोकतन्त्रात्मक, समाजवाद उन्मुख, संघीय लोकतान्त्रिक गणतन्त्रात्मक राज्य हो ।",
                     "clauses": []
                 },
@@ -70,18 +70,18 @@
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "२",
-                    "marker": "2",
+                    "sub_article_number_np": "२",
+                    "sub_article_number": "2",
                     "text": "नेपालको क्षेत्र देहाय बमोजिम हुनेछः-",
                     "clauses": [
                         {
                             "type": "clause",
-                            "marker_np": "क",
+                            "clause_number_np": "क",
                             "text": "यो संविधान प्रारम्भ हुँदाका बखतको क्षेत्र, र"
                         },
                         {
                             "type": "clause",
-                            "marker_np": "ख",
+                            "clause_number_np": "ख",
                             "text": "यो संविधान प्रारम्भ भएपछि प्राप्त हुने क्षेत्र ।"
                         }
                     ]
@@ -96,15 +96,15 @@
             "parsed_content": [
                 {
                     "type": "sub_article",
-                    "marker_np": "१",
-                    "marker": "1",
+                    "sub_article_number_np": "१",
+                    "sub_article_number": "1",
                     "text": "नेपालको स्वतन्त्रता, सार्वभौमसत्ता, भौगोलिक अखण्डता, राष्ट्रियता, स्वाधीनता, स्वाभिमान, नेपालीको हक हितको रक्षा, सीमानाको सुरक्षा, आर्थिक समुन्नति र समृद्धि नेपालको राष्ट्रिय हितका आधारभूत विषय हुनेछन् ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "२",
-                    "marker": "2",
+                    "sub_article_number_np": "२",
+                    "sub_article_number": "2",
                     "text": "राष्ट्र हित प्रतिकूलको आचरण र कार्य संघीय कानून बमोजिम दण्डनीय हुनेछ ।",
                     "clauses": []
                 }
@@ -130,22 +130,22 @@
             "parsed_content": [
                 {
                     "type": "sub_article",
-                    "marker_np": "१",
-                    "marker": "1",
+                    "sub_article_number_np": "१",
+                    "sub_article_number": "1",
                     "text": "देवनागरी लिपिमा लेखिने नेपाली भाषा नेपालको सरकारी कामकाजको भाषा हुनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "२",
-                    "marker": "2",
+                    "sub_article_number_np": "२",
+                    "sub_article_number": "2",
                     "text": "नेपाली भाषाका अतिरिक्त प्रदेशले आफ्नो प्रदेशभित्र बहुसंख्यक जनताले बोल्ने एक वा एकभन्दा बढी अन्य राष्ट्रभाषालाई प्रदेश कानून बमोजिम प्रदेशको सरकारी कामकाजको भाषा निर्धारण गर्न सक्नेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "३",
-                    "marker": "3",
+                    "sub_article_number_np": "३",
+                    "sub_article_number": "3",
                     "text": "भाषा सम्बन्धी अन्य कुरा भाषा आयोगको सिफारिसमा नेपाल सरकारले निर्णय गरे बमोजिम हुनेछ ।",
                     "clauses": []
                 }
@@ -159,15 +159,15 @@
             "parsed_content": [
                 {
                     "type": "sub_article",
-                    "marker_np": "१",
-                    "marker": "1",
+                    "sub_article_number_np": "१",
+                    "sub_article_number": "1",
                     "text": "सिम्रिक रंगको भुइँ र गाढा नीलो रंगको किनारा भएको दुई त्रिकोण अलिकति जोडिएको, माथिल्लो भागमा खुर्पे चन्द्रको बीचमा सोह्रमा आठ कोण देखिने सेतो आकार र तल्लो भागमा बाह्र कोणयुक्त सूर्यको सेतो आकार अंकित भएको झण्डा नेपालको राष्ट्रिय झण्डा हो ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "२",
-                    "marker": "2",
+                    "sub_article_number_np": "२",
+                    "sub_article_number": "2",
                     "text": "नेपालको राष्ट्रिय झण्डा, राष्ट्रिय झण्डा बनाउने तरीका र तत्सम्बन्धी अन्य विवरण अनुसूची-१ मा उल्लेख भए बमोजिम हुनेछ ।",
                     "clauses": []
                 }
@@ -181,22 +181,22 @@
             "parsed_content": [
                 {
                     "type": "sub_article",
-                    "marker_np": "१",
-                    "marker": "1",
+                    "sub_article_number_np": "१",
+                    "sub_article_number": "1",
                     "text": "नेपालको राष्ट्रिय गान अनुसूची-२ मा उल्लेख भए बमोजिम हुनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "२",
-                    "marker": "2",
+                    "sub_article_number_np": "२",
+                    "sub_article_number": "2",
                     "text": "नेपालको निशान छाप अनुसूची-३ मा उल्लेख भए बमोजिम हुनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "३",
-                    "marker": "3",
+                    "sub_article_number_np": "३",
+                    "sub_article_number": "3",
                     "text": "नेपालको राष्ट्रिय फूल लालीगुराँस, राष्ट्रिय रंग सिम्रिक, राष्ट्रिय जनावर गाई र राष्ट्रिय पक्षी डाँफे हुनेछ ।",
                     "clauses": []
                 }

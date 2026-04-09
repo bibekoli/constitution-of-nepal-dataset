@@ -32,10 +32,16 @@ This directory contains a structured dataset of the Constitution of Nepal, organ
       "parsed_content": [
         {
           "type": "sub_article",
-          "marker_np": "१",
-          "marker": "1",
+          "sub_article_number_np": "१",
+          "sub_article_number": "1",
           "text": "यो संविधान नेपालको मूल कानून हो । यस संविधानसँग बाझिने कानून बाझिएको हदसम्म अमान्य हुनेछ ।",
-          "clauses": []
+          "clauses": [
+            {
+              "type": "clause",
+              "clause_number_np": "क",
+              "text": "..."
+            }
+          ]
         }
       ],
       "original_content": "(१) यो संविधान नेपालको मूल कानून हो । यस संविधानसँग बाझिने कानून बाझिएको हदसम्म अमान्य हुनेछ ।"

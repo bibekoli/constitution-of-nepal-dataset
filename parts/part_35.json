@@ -13,15 +13,15 @@
             "parsed_content": [
                 {
                     "type": "sub_article",
-                    "marker_np": "१",
-                    "marker": "1",
+                    "sub_article_number_np": "१",
+                    "sub_article_number": "1",
                     "text": "यस संविधानलाई “नेपालको संविधान” भनिनेछ ।",
                     "clauses": []
                 },
                 {
                     "type": "sub_article",
-                    "marker_np": "२",
-                    "marker": "2",
+                    "sub_article_number_np": "२",
+                    "sub_article_number": "2",
                     "text": "यो संविधान संवत् दुई हजार बहत्तर साल असोज महीनाको तीन गतेदेखि प्रारम्भ हुनेछ ।",
                     "clauses": []
                 }
